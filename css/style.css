@@ -400,10 +400,10 @@ body.fixed {
 	text-indent: -9999px;
 }
 #pause_play.pause {
-	background: url(images/btn_pause.png) no-repeat 0 0;
+	background: url(../img/btn_pause.png) no-repeat 0 0;
 }
 #pause_play.play {
-	background: url(images/btn_play.png) no-repeat 0 0;
+	background: url(../img/btn_play.png) no-repeat 0 0;
 }
 .main_slider .profile_list {
 	display: flex;
