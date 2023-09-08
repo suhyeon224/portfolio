@@ -954,13 +954,6 @@ body.fixed {
     .project_category .tag_list{
         display:none;
     }
-    .project_category .tab_list{
-            display: flex;
-            justify-content: space-between;
-        }
-    .project_category .tab_list li{
-        margin:0 10px;
-    }
     .project_work .work_list .work_info {
         padding-top:30px;
         padding-left: 0;
