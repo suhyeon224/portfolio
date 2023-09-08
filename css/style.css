@@ -830,9 +830,6 @@ body.fixed {
 .project_work li:last-child{
     padding-bottom:0;
 }
-.project_work .work_list .project_banner:hover{
-    transform: scale(1.5);
-}
 .project_work .work_list .work_info{
     overflow: hidden;
     position: relative;
